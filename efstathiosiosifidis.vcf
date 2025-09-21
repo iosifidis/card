@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Iosifidis;Efstathios;;;
+FN:Efstathios Iosifidis
+ORG:Open Technologies Alliance (GFOSS)
+ADR;TYPE=WORK:Iroon Politechniou 9, Zografou 157 73
+TITLE:Systems administrator - Solutions architect
+TEL;TYPE=CELL:+306999311075
+TEL;TYPE=WORK:+302102209380
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:eiosifidis@eellak.gr
+URL;TYPE=Digital Business Card:https://iosifidis.github.io/mycard
+URL:https://gfoss.eu/
+URL;TYPE=Website:https://gfoss.eu/
+URL;TYPE=Matrix:https://matrix.to/#/@eiosifidis:chat.ellak.gr
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/eiosifidis/
+URL;TYPE=GitHub:https://github.com/http://www.github.com/iosifidis
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100416012
+END:VCARD
